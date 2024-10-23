@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fizur-Rahman-Fahim
+# 👋 Hi, I’m Fizur-Rahman-Fahim
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Django
 - 🌱 I’m currently working with -> HTML || CSS || JavaScript || Bootstrap || Python || Django.
