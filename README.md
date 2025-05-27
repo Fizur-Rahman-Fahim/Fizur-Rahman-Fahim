@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Django
 - 🌱 I’m currently working with -> HTML || CSS || JavaScript || Bootstrap || Python || Django.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fizurrahman733433@gmmail.com
+- 📫 How to reach me fizurrahman733433@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Loves to play Cricket & Foottball || Motorcycle Riding. 
+- ⚡ Fun fact: Loves to play Cricket & Football || Motorcycle Riding. 
 
 <!---
 Fizur-Rahman-Fahim/Fizur-Rahman-Fahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
