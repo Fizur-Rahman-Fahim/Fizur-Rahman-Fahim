@@ -17,7 +17,6 @@
   - Django Telegram Bot 🤖  
   - Automated Stock Analysis Web App 📊  
   - Exam Bill Management System  
-  - Library & Patient Management Systems  
   - Exam Controller System
 
 ---
