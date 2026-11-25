@@ -11,21 +11,20 @@
 
 - 🎓 CSE student at **Jamalpur Science and Technology University**
 - 🧠 Always curious about how systems work under the hood
-- 🔧 Building full-stack apps with **Django** and **React**
+- 🔧 Building backend and full-stack applications with **Python**, **Django**, REST APIs, and modern JavaScript tools
 - 📈 Passionate about **stock market analysis**, **machine learning**, and **AI agents**
-- 🧑‍💻 Currently developing:
-  - Django Telegram Bot 🤖  
-  - Automated Stock Analysis Web App 📊  
-  - Exam Bill Management System  
-  - Exam Controller System
+- 📱 Interested in practical web, mobile, and IoT applications
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages:**  
+**Languages & Web:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -33,29 +32,34 @@
 
 **Frameworks & Libraries:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ---
 
 ### 🚀 Projects
 
-- **🤖 Django Telegram Bot** – Real-time communication bot using Django and Telegram API  
-- **📊 Stock Analysis Web App** – Analyze and visualize stock trends with Python + Django  
-- **🧾 Exam Bill Management System** – Automating exam billing for academic institutions  
-- **📚 Library Management System** – Book tracking and user management system  
-- **🏥 Patient Management System** – A Django-based medical record organizer  
-- **🗂 Exam Controller System** – Complete backend for managing exams and results  
+- **📱 [Mess Manager](https://github.com/Fizur-Rahman-Fahim/mess-manager)** – Android app and Django REST API for meal tracking, deposits, expenses, and monthly bills. Built with React Native, Expo, TypeScript, and PostgreSQL. [Live API](https://mess-manager-api-bio8.onrender.com)
+- **🪪 [Smart Attendance](https://github.com/Fizur-Rahman-Fahim/Smart-Attendance)** – IoT attendance system combining RFID, ESP32-CAM face verification, and a Django REST backend. [Live demo](https://smart-attendance-oas2.onrender.com/)
+- **📚 [Learning Management System](https://github.com/Fizur-Rahman-Fahim/LMS)** – Course and enrollment platform with role-based access, built with React, Django REST Framework, and JWT authentication.
+- **📖 [Library Management System](https://github.com/Fizur-Rahman-Fahim/Library-Management-System)** – Django web app for browsing, borrowing, and returning books, with user accounts and balance management. [Live demo](https://library-management-system-nl78.onrender.com)
+- **🛒 [Single-Vendor E-commerce](https://github.com/Fizur-Rahman-Fahim/Single-Vendor-Ecommerce-Project)** – Django storefront with product browsing, cart and checkout, SSLCommerz payment integration, and social login.
+- **🗓️ [Leave Management System](https://github.com/Fizur-Rahman-Fahim/Leave-Management-System)** – Django application for employee leave requests, approvals, and leave-history tracking.
+- **🩺 [Doctor Desk](https://github.com/Fizur-Rahman-Fahim/Doctor-Desk)** – Django medical-record system for managing patients, prescriptions, and reports. [Live demo](https://doctor-desk-okum.onrender.com/)
 
 ---
 
