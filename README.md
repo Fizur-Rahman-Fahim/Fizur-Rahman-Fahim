@@ -159,7 +159,8 @@ A Django-based medical record management system for managing patients, prescript
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=Fizur-Rahman-Fahim&show_icons=true&theme=tokyonight&hide_border=true"
        alt="GitHub Stats" />
-
+</p>
+<p align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizur-Rahman-Fahim&layout=compact&theme=tokyonight&hide_border=true"
        alt="Top Languages" />
